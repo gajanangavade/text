@@ -1,1 +1,2 @@
-# text
+#first program
+print("world)
